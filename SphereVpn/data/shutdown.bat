@@ -1,0 +1,1 @@
+C:\Windows\shutdown.exe /r /c "Vôtre PC a idja étttppné infearnanacté par le virusnanaunahereVPN. an e r ppp ornna rnatnrua antnaurit alu-tlduac  rasnu .ecra a ldnr lceivruc, anurcredvacksv arscdeauspcdvcé.lv,r uvadrlcevopade.rô,po Ce pccccccccccccccccccccccccccccccccc esssstttt moononoonotrttttttt"
