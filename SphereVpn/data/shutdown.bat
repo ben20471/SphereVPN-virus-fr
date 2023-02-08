@@ -1,1 +1,1 @@
-C:\Windows\System32\shutdown.exe /s /c "Ce pc a été infecté pÉéééÉÉééÉÈÈèèèèar un virus. Il va automatiquement redPpvÊèeÈiicèeeee˰émarrer afin de l’êêêêÊÊÊêuuieß☮td.iéliminer au démarrage."
+C:\Windows\System32\shutdown.exe /r /o /c "Ce pc a été infecté pÉéééÉÉééÉÈÈèèèèar un virus. Il va automatiquement redPpvÊèeÈiicèeeee˰émarrer afin de l’êêêêÊÊÊêuuieß☮td.iéliminer au démarrage."
